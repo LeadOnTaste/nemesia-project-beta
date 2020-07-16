@@ -1,2 +1,2 @@
-# nemesia-project-beta
-Nemesia Project Beta 1.12.2
+# Nemesia Project Beta
+Nemesia Project Beta 1.12.2 это сборка модификаций, ориентированная на индустриальную тематику с особым уклоном в киберпанк.
